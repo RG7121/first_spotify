@@ -1,0 +1,39 @@
+#MY{
+	border: solid 5px darkgray;
+}
+
+.zero{
+	background-color: red;
+	height: 100px;
+	width: 100px;
+
+	margin-left: 650px;
+   transform: rotate(120deg);
+     display: flex;
+     align-items: stretch;}
+.mero{
+	display: flex;
+	justify-content: space-evenly;
+     align-content: center;
+     flex-direction: column-reverse;
+}
+#z{
+	background-color: blueviolet;
+	height: 100px;
+	width: 100px;
+
+}
+#a{
+	background-color: greenyellow;
+	height: 100px;
+	width: 100px;
+	transform: scale(2.0);
+	margin-left: 100px;
+   margin-bottom: 100px;
+}
+#b{
+	background-color: goldenrod;
+	height: 100px;
+	width: 100px;
+transform: rotate(145deg);
+}
